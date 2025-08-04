@@ -237,39 +237,6 @@ com.knbrgns.nutriscoreapp
     └── ValidationUtils
 ```
 
-## Installation
-
-### Prerequisites
-- Android Studio Iguana | 2023.2.1 or higher
-- JDK 11 or higher
-- An Android device or emulator running Android 8.0+
-- Firebase account for authentication features
-
-### For Developers
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/Nutri-Score-Based-Nutrient-Assessment-and-Recommendation-Application.git
-   ```
-
-2. Open the project in Android Studio
-
-3. Configure Firebase:
-    - Create a Firebase project in the Firebase Console
-    - Add an Android app to your Firebase project
-    - Download the `google-services.json` file and place it in the app/ directory
-    - Enable Authentication (Email/Password) in Firebase Console
-    - Set up Firestore Database with appropriate rules
-
-4. Build the project:
-   ```bash
-   ./gradlew build
-   ```
-
-5. Run the application on an emulator or physical device.
-
-## Usage
-
 ### User Registration and Authentication
 
 1. Launch the application
@@ -362,7 +329,6 @@ The project has implemented all core functionality and is currently in the beta 
 ## Development Team
 
 - **Enes Kanbur** (20soft1031) - Lead Developer
-- **Talha Güneş** (20soft1019) - Developer & UI Design
 
 ## License
 
@@ -377,4 +343,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-© 2025 Nutri-Score Application Team | COMP4902 Graduation Design Project
+© 2025 Nutri-Score Application Team
