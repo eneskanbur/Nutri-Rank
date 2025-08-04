@@ -1,7 +1,7 @@
 # Nutri-Score Based Nutrient Assessment and Recommendation Application
 
 <div align="center">
-  <img src="app/src/main/res/drawable/app_icon.png" width="240px" alt="NutriScore Logo">
+  <img src="app_icon.png" width="240px" alt="NutriScore Logo">
   <br>
   <p>
     <a href="#overview">Overview</a> •
