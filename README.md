@@ -228,7 +228,7 @@ class BarcodeAnalyzer : ImageAnalysis.Analyzer {
 
 ## 📞 Contact & Links
 
-- **LinkedIn**: [Enes Kanbur]([https://www.linkedin.com/in/eneskanbur/])
+- **LinkedIn**: [Enes Kanbur](https://www.linkedin.com/in/eneskanbur/)
 - **Email**: kanburenes02@gmail.com
 
 ---
