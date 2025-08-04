@@ -1,4 +1,4 @@
-# 🥗 Nutri Rank - Smart Nutrition Assessment App
+# ![Scanner](app_icon.jpg) Nutri Rank - Smart Nutrition Assessment App
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue.svg)](https://kotlinlang.org)
@@ -138,7 +138,7 @@ Nutri Rank is a comprehensive Android application that revolutionizes how users 
 ### Main Features
 | Home Screen | Barcode Scanner | Product Details | OCR Scanner |
 |-------------|-----------------|-----------------|-------------|
-| ![Home](images/home.png) | ![Scanner](images/scanner.png) | ![Details](images/details.png) | ![OCR](images/ocr.png) |
+| ![Home](home.png) | ![Scanner](scanner.png) | ![Details](details.png) | ![OCR](ocr.png) |
 
 ### User Flow
 ```
@@ -202,32 +202,6 @@ class BarcodeAnalyzer : ImageAnalysis.Analyzer {
     }
 }
 ```
-
-## 🏗️ Build & Setup
-
-### Prerequisites
-```bash
-• Android Studio Arctic Fox or later
-• Android SDK 26+
-• Kotlin 1.8+
-• Google Services JSON configuration
-```
-
-### Quick Start
-```bash
-1. Clone the repository
-2. Add google-services.json to app/ directory
-3. Sync project with Gradle files
-4. Run on device/emulator (API 26+)
-```
-
-### Build Variants
-```gradle
-• Debug: Development with logging
-• Release: Production optimized
-• Staging: Testing environment
-```
-
 ## 📈 Project Impact
 
 ### Business Value
@@ -254,9 +228,8 @@ class BarcodeAnalyzer : ImageAnalysis.Analyzer {
 
 ## 📞 Contact & Links
 
-- **LinkedIn**: [Enes Kanbur](https://linkedin.com/in/enes-kanbur)
-- **Email**: contact@eneskanbur.dev
-- **Portfolio**: [eneskanbur.dev](https://eneskanbur.dev)
+- **LinkedIn**: [Enes Kanbur]([https://linkedin.com/in/enes-kanbur](https://www.linkedin.com/in/eneskanbur/))
+- **Email**: kanburenes02@gmail.com
 
 ---
 
